@@ -1,0 +1,17 @@
+{
+    "name": "sistema_calificacion",
+    "version": "1.0.0",
+    "description": "Sistema calificación nodejs",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Sebastian Garcia",
+    "license": "ISC",
+    "devDependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.6",
+        "mysql": "^2.18.1"
+    }
+}
