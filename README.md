@@ -1,2 +1,2 @@
 # SistemaCalificacionNodejs
-Sistema calificación para empresas y productos
+Api sobre un sistema calificación para empresas y productos
