@@ -9,7 +9,7 @@ module.exports = app => {
     // Retrieve all Qualifications
     router.get("/", qualification.findAll);
 
-    // Retrieve all Qualifications by specify date
+    // Retrieve all Qualifications by specify date, example  ../SpecifyDate?date=2021-01-07
     router.get("/SpecifyDate", qualification.findAllByDate);
 
     // Retrieve all Qualifications greater than three

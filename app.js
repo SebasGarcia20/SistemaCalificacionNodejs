@@ -24,7 +24,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // simple route
 app.get("/", (req, res) => {
-    res.json({ message: "Bienvenido" });
+    res.json({ message: "Bienvenido al sistema de calificación" });
 });
 
 // route Qualification
